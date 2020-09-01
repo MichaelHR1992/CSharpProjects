@@ -1,0 +1,13 @@
+C:\Users\Micha\Documents\C# projects\CoinChange\bin\Debug\netcoreapp3.1\CoinChange.exe
+C:\Users\Micha\Documents\C# projects\CoinChange\bin\Debug\netcoreapp3.1\CoinChange.deps.json
+C:\Users\Micha\Documents\C# projects\CoinChange\bin\Debug\netcoreapp3.1\CoinChange.runtimeconfig.json
+C:\Users\Micha\Documents\C# projects\CoinChange\bin\Debug\netcoreapp3.1\CoinChange.runtimeconfig.dev.json
+C:\Users\Micha\Documents\C# projects\CoinChange\bin\Debug\netcoreapp3.1\CoinChange.dll
+C:\Users\Micha\Documents\C# projects\CoinChange\bin\Debug\netcoreapp3.1\CoinChange.pdb
+C:\Users\Micha\Documents\C# projects\CoinChange\obj\Debug\netcoreapp3.1\CoinChange.csprojAssemblyReference.cache
+C:\Users\Micha\Documents\C# projects\CoinChange\obj\Debug\netcoreapp3.1\CoinChange.AssemblyInfoInputs.cache
+C:\Users\Micha\Documents\C# projects\CoinChange\obj\Debug\netcoreapp3.1\CoinChange.AssemblyInfo.cs
+C:\Users\Micha\Documents\C# projects\CoinChange\obj\Debug\netcoreapp3.1\CoinChange.csproj.CoreCompileInputs.cache
+C:\Users\Micha\Documents\C# projects\CoinChange\obj\Debug\netcoreapp3.1\CoinChange.dll
+C:\Users\Micha\Documents\C# projects\CoinChange\obj\Debug\netcoreapp3.1\CoinChange.pdb
+C:\Users\Micha\Documents\C# projects\CoinChange\obj\Debug\netcoreapp3.1\CoinChange.genruntimeconfig.cache
