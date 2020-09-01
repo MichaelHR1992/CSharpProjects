@@ -6,7 +6,7 @@ namespace CoinChange
     {
         static void Main(string[] args)
         {
-            double money = 1263;
+            double money = 1263; // need to make test that tries many different numbers!
             Change change = new Change();
             Change moneyBack = OptimalChange(money, change); 
             moneyBack.WriteOutput();
