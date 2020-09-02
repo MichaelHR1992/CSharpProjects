@@ -1651,16 +1651,6 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
-      },
-      "GradeBook/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/GradeBook.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/GradeBook.dll": {}
-        }
       }
     }
   },
@@ -5622,19 +5612,13 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
-    },
-    "GradeBook/1.0.0": {
-      "type": "project",
-      "path": "../../src/GradeBook/GradeBook.csproj",
-      "msbuildProject": "../../src/GradeBook/GradeBook.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "GradeBook >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "coverlet.collector >= 1.2.0",
-      "xunit >= 2.4.1",
+      "xunit >= *",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
   },
@@ -5644,11 +5628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
-      "projectName": "GradeBook.Tests",
-      "projectPath": "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Micha\\Documents\\C# projects\\coinchange\\test\\CoinChange.Test\\CoinChange.Test.csproj",
+      "projectName": "CoinChange.Test",
+      "projectPath": "C:\\Users\\Micha\\Documents\\C# projects\\coinchange\\test\\CoinChange.Test\\CoinChange.Test.csproj",
       "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\test\\GradeBook.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Micha\\Documents\\C# projects\\coinchange\\test\\CoinChange.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5661,11 +5645,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\src\\GradeBook\\GradeBook.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -5687,7 +5667,7 @@
           },
           "xunit": {
             "target": "Package",
-            "version": "[2.4.1, )"
+            "version": "[*, )"
           },
           "xunit.runner.visualstudio": {
             "target": "Package",

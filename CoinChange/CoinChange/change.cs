@@ -4,9 +4,9 @@ namespace CoinChange
 {
     class Change
     {
-        public double coins2 = 0;
-        public double bill5 = 0;
-        public double bill10 = 0;
+        public long coins2 = 0;
+        public long bill5 = 0;
+        public long bill10 = 0;
 
         public void WriteOutput()
         {

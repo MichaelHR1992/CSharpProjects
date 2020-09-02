@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\Micha\\Documents\\C# projects\\coinchange\\test\\CoinChange.Test\\CoinChange.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\Micha\\Documents\\C# projects\\coinchange\\test\\CoinChange.Test\\CoinChange.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-        "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\Micha\\Documents\\C# projects\\coinchange\\test\\CoinChange.Test\\CoinChange.Test.csproj",
+        "projectName": "CoinChange.Test",
+        "projectPath": "C:\\Users\\Micha\\Documents\\C# projects\\coinchange\\test\\CoinChange.Test\\CoinChange.Test.csproj",
         "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\Micha\\Documents\\C# projects\\coinchange\\test\\CoinChange.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,6 +35,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

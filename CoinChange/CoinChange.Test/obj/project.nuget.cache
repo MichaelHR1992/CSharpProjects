@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6VxnKLXeJSaCakVllC1wSCVm/MVmjcbDx1HlkHNhIPUKEfxEJYdiIRoBjjTv+ySUPbzByCQoa41/arLCIO89hg==",
+  "dgSpecHash": "xBrgQDtPlt35QiBeBz9PQ0ZKui2Sjp6c1lM0ayJ9bULMp0NS7EUP85mtaCxdoDVX3p0LRf2KIzpEIOBysDHXlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Micha\\Documents\\C# projects\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Micha\\Documents\\C# projects\\coinchange\\test\\CoinChange.Test\\CoinChange.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Micha\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Micha\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

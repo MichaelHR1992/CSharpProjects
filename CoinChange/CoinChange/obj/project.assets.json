@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Micha\\Documents\\C# projects\\CoinChange\\CoinChange.csproj",
+      "projectUniqueName": "C:\\Users\\Micha\\Documents\\C# projects\\CoinChange\\src\\CoinChange\\CoinChange.csproj",
       "projectName": "CoinChange",
-      "projectPath": "C:\\Users\\Micha\\Documents\\C# projects\\CoinChange\\CoinChange.csproj",
+      "projectPath": "C:\\Users\\Micha\\Documents\\C# projects\\CoinChange\\src\\CoinChange\\CoinChange.csproj",
       "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Micha\\Documents\\C# projects\\CoinChange\\obj\\",
+      "outputPath": "C:\\Users\\Micha\\Documents\\C# projects\\CoinChange\\src\\CoinChange\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
